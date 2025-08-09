@@ -1,3 +1,5 @@
+// © Sebastian Lopez-Cot 2025. Licensed CC BY-NC-SA 4.0.
+
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
@@ -50,3 +52,4 @@ public class Main {
         frame.setVisible(true);
     }
 }
+
