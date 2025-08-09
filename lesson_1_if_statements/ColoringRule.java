@@ -1,3 +1,5 @@
+// © Sebastian Lopez-Cot 2025. Licensed CC BY-NC-SA 4.0.
+
 import java.awt.Color;
 
 public class ColoringRule {
@@ -175,3 +177,4 @@ public class ColoringRule {
         return new Color(255, 0, 0);
     }
 }
+
