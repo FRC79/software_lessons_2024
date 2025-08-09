@@ -1,3 +1,5 @@
+// © Sebastian Lopez-Cot 2025. Licensed CC BY-NC-SA 4.0.
+
 package code.world;
 import java.util.LinkedList;
 import java.util.Optional;
